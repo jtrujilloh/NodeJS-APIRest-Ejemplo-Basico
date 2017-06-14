@@ -1,0 +1,15 @@
+{
+  "name": "Module.Example",
+  "version": "0.0.1",
+  "description": "API - Module Example",
+  "main": "Module.Example.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mongoose": "^4.7.0"
+  },
+  "dependencies": {
+    "mongoose": "^4.7.0"
+  }
+}

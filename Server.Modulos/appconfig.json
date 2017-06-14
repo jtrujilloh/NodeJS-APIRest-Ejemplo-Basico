@@ -1,0 +1,15 @@
+{
+	"MongoDBServer": {
+		"IP": "mongodb://127.0.0.1",
+		"PORT": 27017,
+		"BBDD": "nombreBBDD_Coleccion"
+	},
+	"Config2": {
+		"User": "usuario",  
+		"Password": "1234"
+	},
+	"Config3": {
+		"Propiedad1": "1",
+		"Propiedad2": "2"
+	}
+}
