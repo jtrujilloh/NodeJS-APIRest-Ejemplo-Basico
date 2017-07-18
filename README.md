@@ -13,7 +13,7 @@ http://localhost:9090/?p1=123&p2=Este es un texto
 
 
 ________________________________________________
-Actualizado en: 10-07-2017:
+Actualizado en: 10-07-2017:   
 
 Importante: Actualmente se está modificando para poder hacer uso de las "Operaciones" de ejemplo incluidas en la nueva versión, Ya no se usa enrutadores como normalmente se conoce, se utiliza la invocación por Operación, Nombre de Operación incluido en los parámetros enviados al servicio (Payload de Entrada, con una única URL).
 
